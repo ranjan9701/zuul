@@ -1,0 +1,6 @@
+10:03:28 AM [restartedMain] INFO  c.o.OpdZuulProxyGatewayApplication - No active profile set, falling back to default profiles: default
+10:03:34 AM [restartedMain] INFO  c.o.OpdZuulProxyGatewayApplication - Started OpdZuulProxyGatewayApplication in 7.984 seconds (JVM running for 9.344)
+10:03:34 AM [restartedMain] INFO  c.o.OpdZuulProxyGatewayApplication - Process Id: 9772
+11:12:07 AM [restartedMain] INFO  c.o.OpdZuulProxyGatewayApplication - No active profile set, falling back to default profiles: default
+11:12:13 AM [restartedMain] INFO  c.o.OpdZuulProxyGatewayApplication - Started OpdZuulProxyGatewayApplication in 7.537 seconds (JVM running for 8.908)
+11:12:13 AM [restartedMain] INFO  c.o.OpdZuulProxyGatewayApplication - Process Id: 9724
